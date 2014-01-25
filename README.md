@@ -1,4 +1,4 @@
-CountNCensor
+Read Me
 ============
 
 This function takes in 2 arguments: raw_text and array of words censored_words. It outputs the number of words in raw_text,
